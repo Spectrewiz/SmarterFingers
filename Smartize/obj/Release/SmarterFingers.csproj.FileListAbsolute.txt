@@ -1,0 +1,2 @@
+C:\Users\Nelson\Desktop\Smartize\Bin\Release\SmarterFingers\SmarterFingers.dll
+C:\Users\Nelson\Desktop\Smartize\Smartize\obj\Release\SmarterFingers.dll

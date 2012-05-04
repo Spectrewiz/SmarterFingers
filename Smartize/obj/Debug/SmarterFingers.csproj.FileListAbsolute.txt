@@ -1,0 +1,7 @@
+C:\Users\Nelson\Desktop\Smartize\Bin\Debug\PluginTemplate\SmarterFingers.dll
+C:\Users\Nelson\Desktop\Smartize\Bin\Debug\PluginTemplate\SmarterFingers.pdb
+C:\Users\Nelson\Desktop\Smartize\Smartize\obj\Debug\SmarterFingers.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Desktop\Smartize\Smartize\obj\Debug\SmarterFingers.dll
+C:\Users\Nelson\Desktop\Smartize\Smartize\obj\Debug\SmarterFingers.pdb
+C:\Users\Nelson\Desktop\Smartize\Bin\Debug\SmarterFingers\SmarterFingers.dll
+C:\Users\Nelson\Desktop\Smartize\Bin\Debug\SmarterFingers\SmarterFingers.pdb
